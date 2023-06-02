@@ -22,9 +22,16 @@ One of my personal belief is that anyone can do anything. They just need to figu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" alt="Confluence"  width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="35" height="35" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"  width="35" height="35" />  
 </p>
 
+## 📫 How to reach me: ...
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" /> [LinkedIn](https://www.linkedin.com/in/jamatya/)
+   
+## JAmatya's GitHub stats 
+ [![Jeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamatya&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=jamatya&theme=dark)](https://git.io/streak-stats)
+ 
 <!--
 **jamatya/jamatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
