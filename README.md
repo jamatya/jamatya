@@ -1,4 +1,12 @@
-# 👋 Hi there! I'm [Jeny](https://www.linkedin.com/in/jamatya/)
+# 👋 Hi there! I'm [Jeny](https://www.linkedin.com/in/jamatya/).
+
+With 15 years of diverse experience in IT sector, I have come a long way from first programming job as a bright-eyed, curious coder to my current role as more mature (maybe?) and experienced (definitely!) Senior Technical Specialist in Queensland Department of Education. And because I love what I do, it doesn't feel like I have spent so many years typing away in front on the screen. 
+
+Over the years, I have had the opportunity to work on projects of different complexities, tech stacks and team structure, with hands-on involvement in requirement gathering and analysis, software architecture and design, implementation, testing, delivery, post-production support, along with project planning and resource allocation. 
+
+I am an avid advocate of agile methodologies and always try to blend these practices in any team I work with. It's a pure delight to get a Scrum team working well with each other, with seamless transparency, communication and no hierarchical boundary!
+
+One of my personal belief is that anyone can do anything. They just need to figure out the algorithm that works! It applies not just to a project implementation, but to anything that we do in our lives.
 
 <!--
 **jamatya/jamatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
