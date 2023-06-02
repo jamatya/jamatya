@@ -7,6 +7,8 @@ Over the years, I have had the opportunity to work on projects of different comp
 I am an avid advocate of agile methodologies and always try to blend these practices in any team I work with. It's a pure delight to get a Scrum team working well with each other, with seamless transparency, communication and no hierarchical boundary!
 
 One of my personal belief is that anyone can do anything. They just need to figure out the algorithm that works! It applies not just to a project implementation, but to anything that we do in our lives.
+<br/>
+<br/>
 
 ## 🔭Languages & Tools
 <p>  
@@ -24,14 +26,18 @@ One of my personal belief is that anyone can do anything. They just need to figu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"  width="35" height="35" />  
 </p>
+<br/>
+<br/>
 
 ## 📫 How to reach me: ...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" /> [LinkedIn](https://www.linkedin.com/in/jamatya/)
-   
+<br/>
+<br/>
+
 ## JAmatya's GitHub stats 
  [![Jeny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamatya&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=jamatya&theme=dark)](https://git.io/streak-stats)
- 
+
 <!--
 **jamatya/jamatya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
