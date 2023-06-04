@@ -30,7 +30,7 @@ One of my personal belief is that anyone can do anything. They just need to figu
 <br/>
 
 ## 📫 How to reach me: ...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" /> [LinkedIn](https://www.linkedin.com/in/jamatya/)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" /> (https://www.linkedin.com/in/jamatya/)
 <br/>
 <br/>
 
